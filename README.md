@@ -1,1 +1,2 @@
 ## App for Visiually impaired user
+In our AR-based navigation app, we integrated Google Maps to provide seamless outdoor directions, and combined it with real-time voice feedback that tells the user what object is in front of them and how far it is. To make the experience uninterrupted, we also added a Picture-in-Picture mode so users can continue using Google Maps while still receiving continuous AR object-detection alerts.
